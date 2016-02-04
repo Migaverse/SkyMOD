@@ -1,28 +1,14 @@
-Project back-to-n0t3
+SkyMOD for Galaxy S6/S6 Edge
 
-Portion of SM-N920C firmware to SM-G920F
+This ROM is based off of back-to-n0t3 by arter97, link here:
+https://github.com/arter97/back-to-n0t3
 
+Like his ROM, you're encouraged to fork this project and make your own ROM based on this project, as long as you leave proper credit, link back here and share your fixes/additions in the spirit of open source. Otherwise, no permission is needed to fork and use this as a base ROM.
 
-We love XDA. We love to share things and make things better.
+Please note that using this ROM is at your own risk and will void any warranties. Using this ROM is not recommended for the moment.
 
-Me too. I love to apply things from other developers. But with proper credits.
+What is SkyMOD?
+Currently, not much of anything. What it will eventually be is an AOSP/TouchWiz fusion ROM that brings the best of both worlds.
 
-I'd like to see other developers take commits from this repository and make things better. Contribute to the entire community.
-
-But with proper credits.
-
-'Open' does not mean 'no-respect'. Leave credits to original author and developer.
-
-That's all I want.
-
-
-You're encouraged to fork this project and make your own ROM based on this project
-as long as you follow the following rules.
-
- - Leave the back-to-n0t3 project's URL and credits or 'Thanks-to' the same or more as it's listed in back-to-n0t3 project.
- - Share the fixes you've additionally found or applied.
-
-If not, you'll be reported to the forum moderator.
-
-
-Park Ju Hyung, aka arter97. 2015-08-16
+Can I mirror SkyMOD?
+Go for it, but right now there's really no point in doing so.
