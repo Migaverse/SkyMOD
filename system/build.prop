@@ -17,11 +17,11 @@ ro.build.type=user
 ro.build.user=dpi
 ro.build.host=SWDD6512
 ro.build.tags=release-keys
-ro.build.flavor=nobleltejv-user
-ro.product.model=SM-N920C
+ro.build.flavor=zerofltexx-user
+ro.product.model=SM-G925F
 ro.product.brand=samsung
-ro.product.name=nobleltejv
-ro.product.device=noblelte
+ro.product.name=zeroltexx
+ro.product.device=zerolte
 ro.product.board=universal7420
 # ro.product.cpu.abi and ro.product.cpu.abi2 are obsolete,
 # use ro.product.cpu.abilist instead.
